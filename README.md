@@ -47,9 +47,9 @@ python -m spacy download en_core_web_lg
 Sample Input/Output
 Input Text	                                   Output Locations
 "Visit Paris and Berlin"	                    Paris, Berlin
-"Show properties in Baner and Wakad"	        Baner, Wakad
-"Offices in New York"                         New York
-"Schedule meeting with John"	                No locations found
+"Show properties in Baner and Wakad"	            Baner, Wakad
+"Offices in New York"                               New York
+"Schedule meeting with John"	                    No locations found
 "Compare Kharadi and Viman Nagar"	            Kharadi, Viman Nagar
 
 ✅ How to Run Tests
