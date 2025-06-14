@@ -1,4 +1,4 @@
-# nlp_location_extractor
+# nlp_location_extractor_Using_Custom_Trained_Model
 Takes a natural language text input (like a sentence).  Extracts location names (e.g., cities, areas, countries) from that input.  Uses SpaCy's Named Entity Recognition (NER) to identify locations labeled as GPE (Geo-Political Entity) or LOC (Location).
 
 Location Extractor - NLP Application
