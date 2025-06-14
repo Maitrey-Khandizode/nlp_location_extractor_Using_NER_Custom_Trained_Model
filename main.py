@@ -1,12 +1,22 @@
 from location_extractor import LocationExtractor
+import os
 
 def main():
     print("Location Extractor NLP Application")
     print("Enter text prompt (type 'exit' to quit):")
     
-    # Add your custom locations here
+    # Custom locations
     custom_locations = ["Baner", "Wakad", "Viman Nagar", "Kharadi"]
-    extractor = LocationExtractor(custom_locations=custom_locations)
+    
+    # Train model if not exists
+    model_dir = "trained_model"
+    if not os.path.exists(model_dir):
+        print("Training model... (this may take 1-2 minutes)")
+        from train_model import train_model
+        train_model(custom_locations, model_dir)
+    
+    # Initialize extractor
+    extractor = LocationExtractor(model_path=model_dir)
     
     while True:
         user_input = input("\nInput: ")
