@@ -1,0 +1,2882 @@
+[
+  [
+    "Properties available in Paris",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in paris",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in PARIS",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Paris",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Paris",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in paris",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in PARIS",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Paris",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Paris",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in paris",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in PARIS",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Paris",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Paris",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in paris",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in PARIS",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Paris",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Paris",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in paris",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in PARIS",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Paris",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Paris properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "paris properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "PARIS properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Paris properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Berlin",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in berlin",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in BERLIN",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Berlin",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Berlin",
+    {
+      "entities": [
+        [
+          26,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in berlin",
+    {
+      "entities": [
+        [
+          26,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in BERLIN",
+    {
+      "entities": [
+        [
+          26,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Berlin",
+    {
+      "entities": [
+        [
+          26,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Berlin",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in berlin",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in BERLIN",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Berlin",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Berlin",
+    {
+      "entities": [
+        [
+          23,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in berlin",
+    {
+      "entities": [
+        [
+          23,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in BERLIN",
+    {
+      "entities": [
+        [
+          23,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Berlin",
+    {
+      "entities": [
+        [
+          23,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Berlin",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in berlin",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in BERLIN",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Berlin",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin properties",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "berlin properties",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "BERLIN properties",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin properties",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in New York",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in new york",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in NEW YORK",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in New York",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in New York",
+    {
+      "entities": [
+        [
+          26,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in new york",
+    {
+      "entities": [
+        [
+          26,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in NEW YORK",
+    {
+      "entities": [
+        [
+          26,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in New York",
+    {
+      "entities": [
+        [
+          26,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in New York",
+    {
+      "entities": [
+        [
+          15,
+          23,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in new york",
+    {
+      "entities": [
+        [
+          15,
+          23,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in NEW YORK",
+    {
+      "entities": [
+        [
+          15,
+          23,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in New York",
+    {
+      "entities": [
+        [
+          15,
+          23,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in New York",
+    {
+      "entities": [
+        [
+          23,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in new york",
+    {
+      "entities": [
+        [
+          23,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in NEW YORK",
+    {
+      "entities": [
+        [
+          23,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in New York",
+    {
+      "entities": [
+        [
+          23,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in New York",
+    {
+      "entities": [
+        [
+          19,
+          27,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in new york",
+    {
+      "entities": [
+        [
+          19,
+          27,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in NEW YORK",
+    {
+      "entities": [
+        [
+          19,
+          27,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in New York",
+    {
+      "entities": [
+        [
+          19,
+          27,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "New York properties",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "new york properties",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "NEW YORK properties",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "New York properties",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Los Angeles",
+    {
+      "entities": [
+        [
+          24,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in los angeles",
+    {
+      "entities": [
+        [
+          24,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in LOS ANGELES",
+    {
+      "entities": [
+        [
+          24,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Los Angeles",
+    {
+      "entities": [
+        [
+          24,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Los Angeles",
+    {
+      "entities": [
+        [
+          26,
+          37,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in los angeles",
+    {
+      "entities": [
+        [
+          26,
+          37,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in LOS ANGELES",
+    {
+      "entities": [
+        [
+          26,
+          37,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Los Angeles",
+    {
+      "entities": [
+        [
+          26,
+          37,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Los Angeles",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in los angeles",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in LOS ANGELES",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Los Angeles",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Los Angeles",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in los angeles",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in LOS ANGELES",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Los Angeles",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Los Angeles",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in los angeles",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in LOS ANGELES",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Los Angeles",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Los Angeles properties",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "los angeles properties",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "LOS ANGELES properties",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Los Angeles properties",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Baner",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in baner",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in BANER",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Baner",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Baner",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in baner",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in BANER",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Baner",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Baner",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in baner",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in BANER",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Baner",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Baner",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in baner",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in BANER",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Baner",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Baner",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in baner",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in BANER",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Baner",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Baner properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "baner properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "BANER properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Baner properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Wakad",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in wakad",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in WAKAD",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Wakad",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Wakad",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in wakad",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in WAKAD",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Wakad",
+    {
+      "entities": [
+        [
+          26,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Wakad",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in wakad",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in WAKAD",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Wakad",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Wakad",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in wakad",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in WAKAD",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Wakad",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Wakad",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in wakad",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in WAKAD",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Wakad",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wakad properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "wakad properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "WAKAD properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wakad properties",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Hinjewadi",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in hinjewadi",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in HINJEWADI",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Hinjewadi",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Hinjewadi",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in hinjewadi",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in HINJEWADI",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Hinjewadi",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Hinjewadi",
+    {
+      "entities": [
+        [
+          15,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in hinjewadi",
+    {
+      "entities": [
+        [
+          15,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in HINJEWADI",
+    {
+      "entities": [
+        [
+          15,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Hinjewadi",
+    {
+      "entities": [
+        [
+          15,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Hinjewadi",
+    {
+      "entities": [
+        [
+          23,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in hinjewadi",
+    {
+      "entities": [
+        [
+          23,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in HINJEWADI",
+    {
+      "entities": [
+        [
+          23,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Hinjewadi",
+    {
+      "entities": [
+        [
+          23,
+          32,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Hinjewadi",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in hinjewadi",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in HINJEWADI",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Hinjewadi",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hinjewadi properties",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "hinjewadi properties",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "HINJEWADI properties",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hinjewadi properties",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Kothrud",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in kothrud",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in KOTHRUD",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Kothrud",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Kothrud",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in kothrud",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in KOTHRUD",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Kothrud",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Kothrud",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in kothrud",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in KOTHRUD",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Kothrud",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Kothrud",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in kothrud",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in KOTHRUD",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Kothrud",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Kothrud",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in kothrud",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in KOTHRUD",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Kothrud",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kothrud properties",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "kothrud properties",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "KOTHRUD properties",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kothrud properties",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Viman Nagar",
+    {
+      "entities": [
+        [
+          24,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in viman nagar",
+    {
+      "entities": [
+        [
+          24,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in VIMAN NAGAR",
+    {
+      "entities": [
+        [
+          24,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Viman Nagar",
+    {
+      "entities": [
+        [
+          24,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Viman Nagar",
+    {
+      "entities": [
+        [
+          26,
+          37,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in viman nagar",
+    {
+      "entities": [
+        [
+          26,
+          37,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in VIMAN NAGAR",
+    {
+      "entities": [
+        [
+          26,
+          37,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Viman Nagar",
+    {
+      "entities": [
+        [
+          26,
+          37,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Viman Nagar",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in viman nagar",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in VIMAN NAGAR",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Viman Nagar",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Viman Nagar",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in viman nagar",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in VIMAN NAGAR",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Viman Nagar",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Viman Nagar",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in viman nagar",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in VIMAN NAGAR",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Viman Nagar",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Viman Nagar properties",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "viman nagar properties",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "VIMAN NAGAR properties",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Viman Nagar properties",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Kharadi",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in kharadi",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in KHARADI",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Properties available in Kharadi",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Kharadi",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in kharadi",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in KHARADI",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Looking for apartments in Kharadi",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Kharadi",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in kharadi",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in KHARADI",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show houses in Kharadi",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Kharadi",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in kharadi",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in KHARADI",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Real estate options in Kharadi",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Kharadi",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in kharadi",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in KHARADI",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Best properties in Kharadi",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kharadi properties",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "kharadi properties",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "KHARADI properties",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kharadi properties",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "LOC"
+        ]
+      ]
+    }
+  ]
+]

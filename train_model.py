@@ -4,6 +4,8 @@ import logging
 from pathlib import Path
 from spacy.training import Example  # Import required for SpaCy 3.0+
 
+
+
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -35,7 +37,8 @@ def generate_training_data(custom_locations):
     
     all_locations = BASE_LOCATIONS + custom_locations
     train_data = []
-    
+
+
     # Single location examples
     for loc in all_locations:
         for template in templates[:6]:
@@ -45,6 +48,12 @@ def generate_training_data(custom_locations):
                 start = text.find(var)
                 end = start + len(var)
                 train_data.append((text, {"entities": [(start, end, "LOC")]}))
+
+    with open("training_data.txt", "w", encoding="utf-8") as f:
+        for text, annot in train_data:
+            f.write(f"{text} -> {annot['entities']}\n")
+
+    return train_data
     
     # Multiple location examples
     for i in range(len(all_locations)):
